@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WidgetString</string>
+    <string name="tvTipo">Tipo Cliente</string>
+    <string name="rbEmpresa">Empresa</string>
+    <string name="rbParticular">Particular</string>
+    <string name="tvNumEmp">Número Empleados</string>
+    <string name="tvRazon">Razón Social</string>
+    <string name="tvRepresentante">Representante</string>
+    <string name="tvCodigoPostal">Código Postal</string>
+    <string name="tvNombre">Nombre Completo</string>
+    <string name="tvOcupacion">Ocupación</string>
+</resources>

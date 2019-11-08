@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numEmp">
+        <item>1–5</item>
+        <item>6–10</item>
+        <item>11–25</item>
+        <item>26–50</item>
+        <item>50–100</item>
+    </string-array>
+
+    <string-array name="ocupacion">
+        <item>Estudiante</item>
+        <item>Trabajador</item>
+        <item>En paro</item>
+        <item>Jubilado/a</item>
+    </string-array>
+</resources>
