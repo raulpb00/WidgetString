@@ -9,4 +9,27 @@
     <string name="tvCodigoPostal">Código Postal</string>
     <string name="tvNombre">Nombre Completo</string>
     <string name="tvOcupacion">Ocupación</string>
+
+
+    <string name="rbtBussiness">Empresa</string>
+    <string name="rbtParticular">Particular</string>
+    <string name="txvTypeClient">Tipo Cliente</string>
+    <string name="swInformation">Información</string>
+    <string name="txvMonth">Mes</string>
+    <string name="txvProfession">Profesión</string>
+    <string name="txvName">Nombre</string>
+    <string name="txvNumEmployees">Número Empleados</string>
+    <string name="txvRepresentative">Representante</string>
+    <string name="txvBusinessID">Razón Social</string>
+
+
+    <string name="contentPreview"><![CDATA[<![CDATA[<html><body><h2>Hola caracola</h2> <p>Este es un <b>contenido</b> bastante <b>descriptivo</b></p></body></html>]]></string>
+
+    <string name="zeroE">No hay empleados :(</string>
+
+    <plurals name="numEmp">
+        <item quantity="zero">No hay empleados</item>
+        <item quantity="one">Hay un empleado</item>
+        <item quantity="other">Hay %d empleados</item>
+    </plurals>
 </resources>
